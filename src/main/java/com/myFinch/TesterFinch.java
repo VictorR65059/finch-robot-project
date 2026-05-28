@@ -5,7 +5,7 @@ public class TesterFinch {
         
         FinalFinch bird = new FinalFinch(device: "A");
         
-        
+        bird.navigateMaze();
         
     }
 }
