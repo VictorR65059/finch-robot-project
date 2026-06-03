@@ -13,6 +13,7 @@ public class TesterFinch {
         bird.doubleLeftTurn();
         bird.setMove("F", 60, 100);
         bird.doubleRightTurn();
+        // Checkpoint 1
         bird.longMoveRight();
         bird.setMove("F", 100, 100);
         bird.doubleLeftTurn();
